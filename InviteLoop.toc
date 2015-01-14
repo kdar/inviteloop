@@ -1,0 +1,9 @@
+## Title: InviteLoop
+## Version: 1.0
+## Author: outroot
+## Interface: 50400
+## SavedVariables: InviteLoop_UpdateInterval
+## SavedVariablesPerCharacter: InviteLoop_InviteName
+
+InviteLoop.xml
+## inviteloop.lua
